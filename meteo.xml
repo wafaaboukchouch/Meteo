@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="meteo_graphique.xsl"?>
+<meteo>
+    <mesure date="20-10-2025">
+        <ville nom="Marrakech" temperature="35"/>
+        <ville nom="Imintanout" temperature="32"/>
+        <ville nom="Agadir" temperature="30"/>
+        <ville nom="Chichaoua" temperature="34"/>
+    </mesure>
+    <mesure date="22-10-2025">
+        <ville nom="Marrakech" temperature="30"/>
+        <ville nom="Imintanout" temperature="35"/>
+        <ville nom="Agadir" temperature="28"/>
+        <ville nom="Chichaoua" temperature="29"/>
+        
+        
+    </mesure>
+</meteo>
